@@ -28,13 +28,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/QwivBA8' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+https://imgur.com/a/QwivBA8
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I spent the majority of the time learning Swift syntax.
 
 ## License
 
